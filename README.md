@@ -69,4 +69,4 @@ I am open to strategic partnerships, technical leadership roles, and building MV
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamzasher02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hamza's GitHub Stats" />
-</p>p>
+</p>
