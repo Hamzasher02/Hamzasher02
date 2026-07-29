@@ -10,8 +10,8 @@
 
 ### 💼 **Work With Me**
 
-[![Hire on Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_PROFILE_URL)
-[![Hire on Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_URL)
+[![Hire on Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hamzasher909)
+[![Hire on Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_URL) <!-- TODO: Please provide your exact public Upwork profile URL -->
 [![Contact Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.sher0208@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamzasher0313-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzasher0313/)
 
@@ -181,8 +181,8 @@ Travelers require unified trip planning, multi-day itinerary generation, and rea
 
 <div align="center">
 
-[![Hire on Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_PROFILE_URL)
-[![Hire on Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_URL)
+[![Hire on Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/hamzasher909)
+[![Hire on Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE_URL) <!-- TODO: Please provide your exact public Upwork profile URL -->
 [![Contact Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.sher0208@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hamzasher0313-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzasher0313/)
 
