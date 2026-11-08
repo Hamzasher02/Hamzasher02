@@ -56,7 +56,7 @@
 ## 💼 Professional Experience
 
 ### **Robotics World**
-*Team Lead · Backend Engineer · Flutter Developer* | **2023 – July 2026**
+*Team Lead · Backend Engineer · Flutter Developer* | **2023 – October 2026**
 
 Progressed from core mobile and backend engineering to technical leadership, driving the end-to-end delivery of commercial software products. Architected scalable Node.js/Express APIs, developed high-performance cross-platform Flutter applications, and integrated real-time communication protocols. Led engineering workflows to enforce clean architecture, robust security standards, and seamless production deployments.
 
